@@ -1,0 +1,1 @@
+Configuration management helps track and control changes in software projects and improves development consistency.
